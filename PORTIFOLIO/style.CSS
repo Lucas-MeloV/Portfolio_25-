@@ -173,7 +173,9 @@ form button {
     box-shadow: 0 2px 8px rgba(111, 0, 255, 0.407);
     font-size: 1.1em;
 }
-
+ul {
+    list-style-type: none;
+}
 .highlight {
     color: var(--accent); 
     font-weight: bold;
